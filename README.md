@@ -9,4 +9,5 @@ cancer development.
 Link: 
 https://public.tableau.com/authoring/SupplementalHealthAnalyticsusingTableau/BigGroupProject-MetaboFoodDataset#2
 
-![image](https://github.com/user-attachments/assets/fcc17edb-3b8f-440c-ac15-3d359e1c4249)
+
+![image](https://github.com/user-attachments/assets/919385ad-fd0b-47e0-9ad5-a16b64c0ac98)
